@@ -2,7 +2,7 @@
 This project provides an in-depth analysis of a Zomato restaurant dataset using Python. The dataset includes various features of restaurants such as whether they offer online ordering, table booking, their ratings, the number of votes, and the approximate cost for two people. Through this analysis, insights are drawn regarding customer preferences, restaurant pricing, ratings, and much more.
 
 ## Table of Contents
-- [Project Overview(#project-overview)
+- [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Data Preprocessing](#data-preprocessing)
